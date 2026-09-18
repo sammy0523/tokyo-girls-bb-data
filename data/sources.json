@@ -1,0 +1,209 @@
+{
+  "updated_at": "2026-09-19T04:25:00+09:00",
+  "sources": [
+    {
+      "id": "hsw",
+      "name": "東京都高体連バスケットボール女子専門部",
+      "url": "https://hsw.tokyobasketball.jp/taikai.php",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "u18",
+      "name": "東京都バスケットボール協会 U18 2026リーグ",
+      "url": "https://tokyo.pba-japanbasketball.jp/u18-1/game/9030/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "u18pdf",
+      "name": "2026 U18女子カーディング",
+      "url": "https://tokyo.pba-japanbasketball.jp/wp-content/uploads/2026/08/274576bd9f09c443697497f7f2ab3ad3.pdf",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "yakumo",
+      "name": "八雲学園 公式クラブ活動レポート",
+      "url": "https://www.yakumo.ac.jp/club_report/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "jbaKanto",
+      "name": "JBA U18 関東大会結果",
+      "url": "https://u18.japanbasketball.jp/convention-news/6690/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "jsportsIH",
+      "name": "J SPORTS インターハイ2026女子結果",
+      "url": "https://www.jsports.co.jp/basketball/highschool/interhigh_result_women/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "kokushikan",
+      "name": "国士舘高校 女子バスケットボール部",
+      "url": "https://bukatsunavi.com/page/kokushikan/basketballf/news/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "meigaku",
+      "name": "明治学院高校 公式",
+      "url": "https://www.meigaku.ed.jp/mg_news/%E3%80%90%E3%82%AF%E3%83%A9%E3%83%96%E3%80%91%E5%A5%B3%E5%AD%90%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%E9%83%A8%E3%83%BB%E5%A4%8F%E5%AD%A3%E5%A4%A7%E4%BC%9A%E3%81%AE-2/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "nogyo",
+      "name": "都立農業高校 公式",
+      "url": "https://www.metro.ed.jp/nogyo-h/activities/2026/09/clubentry_37.html",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "shibasho",
+      "name": "都立芝商業高校 公式",
+      "url": "https://www.metro.ed.jp/sibasyogyo-h/activities/2026/08/8_17.html",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "katsushikano",
+      "name": "都立葛飾野高校 公式",
+      "url": "https://www.metro.ed.jp/katsushikano-h/activities/2026/08/3_2.html",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "tachibana",
+      "name": "都立橘高校 公式",
+      "url": "https://www.metro.ed.jp/tachibana-h/activities/2026/08/clubentry_28.html",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "seisoku",
+      "name": "正則高校 公式",
+      "url": "https://seisoku.ed.jp/club-news/38857/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "kunitachi",
+      "name": "都立国立高校 公式",
+      "url": "https://www.metro.ed.jp/kunitachi-h/activities/2026/06/clubentry_82.html",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "keikaWeb",
+      "name": "京華女子 バスケットボール部公式ページ",
+      "url": "https://www.keika-g.ed.jp/club/basketball/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "keikaInsta",
+      "name": "京華女子バスケットボール部 公式Instagram",
+      "url": "https://www.instagram.com/keika.girl.2020/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "komazawaInsta",
+      "name": "駒澤大学高校女子バスケットボール部 公式Instagram",
+      "url": "https://www.instagram.com/kmzwbbc/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "seitokuWeb",
+      "name": "東京成徳大学高校女子バスケットボール部 公式サイト",
+      "url": "https://official.tokyoseitoku-women-basketball-team.jp/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "seitokuInsta",
+      "name": "東京成徳大学高校女子バスケットボール部 Instagram",
+      "url": "https://www.instagram.com/tokyoseitokuhsbascketballw/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "kyoritsuBlog",
+      "name": "共立女子第二 バスケットボール部ブログ（Facebook更新案内）",
+      "url": "https://kyoritsu2.lekumo.biz/basket/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "itabashi",
+      "name": "都立板橋高校 女子バスケットボール部 公式",
+      "url": "https://www.metro.ed.jp/itabashi-h/activities/2026/08/clubentry_27_1_1_1_4_1_1_1.html",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "hachikita",
+      "name": "都立八王子北高校 女子バスケットボール部 公式",
+      "url": "https://www.metro.ed.jp/hachiojikita-h/activities/club_3/index.html",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "tamashigaku",
+      "name": "多摩地区私立中高女子バスケットボール 私学祭大会",
+      "url": "https://tamashigakusai.blog.jp/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "wc",
+      "name": "JBA ウインターカップ2026",
+      "url": "https://wintercup2026.japanbasketball.jp/outline/",
+      "kind": "official/SNS"
+    },
+    {
+      "id": "higashiyamato20260901",
+      "name": "都東大和高校 女子バスケットボール部 2026夏季大会結果",
+      "url": "https://www.metro.ed.jp/higashiyamato-h/activities/2026/09/clubentry_273.html",
+      "kind": "official"
+    },
+    {
+      "id": "itabashi20260831",
+      "name": "都板橋高校 女子バスケットボール部 2026夏季大会結果",
+      "url": "https://www.metro.ed.jp/itabashi-h/activities/2026/08/clubentry_27_1_1_1_3_1_4_1_1_1_1_1.html",
+      "kind": "official"
+    },
+    {
+      "id": "fuchunishi20260818",
+      "name": "都府中西高校 女子バスケットボール部 2026夏季大会結果",
+      "url": "https://www.metro.ed.jp/fuchunishi-h/activities/2026/08/no_58.html",
+      "kind": "official"
+    },
+    {
+      "id": "naruse20260910",
+      "name": "都成瀬高校 女子バスケットボール部 2026年8月活動報告",
+      "url": "https://www.metro.ed.jp/naruse-h/activities/2026/09/8_2.html",
+      "kind": "official"
+    },
+    {
+      "id": "adachinishi20260824",
+      "name": "都足立西高校 女子バスケットボール部 2026夏季大会結果",
+      "url": "https://www.metro.ed.jp/adachinishi-h/activities/2026/08/clubentry_13.html",
+      "kind": "official"
+    },
+    {
+      "id": "fussa202609",
+      "name": "都福生高校 女子バスケットボール部 2026夏季大会・8学区大会報告",
+      "url": "https://www.metro.ed.jp/fussa-h/activities/2026/09/1_8.html",
+      "kind": "official"
+    },
+    {
+      "id": "katakura20260827",
+      "name": "都片倉高校 女子バスケットボール部 2026夏季大会結果",
+      "url": "https://www.metro.ed.jp/katakura-h/activities/club_14/index.html",
+      "kind": "official"
+    },
+    {
+      "id": "kunitachi20260827",
+      "name": "都国立高校 女子バスケットボール部 2026夏季大会報告",
+      "url": "https://www.metro.ed.jp/kunitachi-h/activities/2026/08/clubentry_88.html",
+      "kind": "official"
+    },
+    {
+      "id": "hachijo20260824",
+      "name": "都八丈高校 女子バスケットボール部 2026夏季大会報告",
+      "url": "https://www.metro.ed.jp/hachijo-h/activities/2026/08/clubentry_12.html",
+      "kind": "official"
+    },
+    {
+      "id": "u18league2026",
+      "name": "東京都U18リーグ 2026年度女子リーグ編成",
+      "url": "https://tokyo.pba-japanbasketball.jp/wp-content/uploads/2026/03/7682f25ae0832251bf13c3d9c8bf0a2f.pdf",
+      "kind": "official"
+    }
+  ]
+}
