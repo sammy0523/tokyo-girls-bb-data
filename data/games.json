@@ -497,7 +497,8 @@
       "verified_on": "2026-09-16"
     },
     {
-      "id": "g0039",      "school_id": "s122",
+      "id": "g0039",
+      "school_id": "s122",
       "date": "2026-07-26",
       "event": "夏の強化練習会（7/26〜29）",
       "opponent": "大成・都松が谷・都片倉・都八王子東・都八王子北（参加校）",
@@ -796,8 +797,7 @@
     },
     {
       "id": "g0062",
-      "school_id": "s178",
-      "date": "2026-08-05",
+      "school_id": "s178",      "date": "2026-08-05",
       "event": "U18 T2-A",
       "opponent": "目黒学院",
       "pf": 61,
@@ -996,7 +996,8 @@
       "event": "夏季大会 2回戦",
       "opponent": "都日比谷",
       "pf": 28,
-      "pa": 36,      "result": "loss",
+      "pa": 36,
+      "result": "loss",
       "type": "公式戦",
       "source_id": "seisoku",
       "verified_on": "2026-09-16"
@@ -1495,7 +1496,8 @@
       "source_id": "hachijo20260824",
       "verified_on": "2026-09-19"
     },
-    {      "id": "g0116",
+    {
+      "id": "g0116",
       "school_id": "s175",
       "date": "2026-08-16",
       "event": "夏季大会 1回戦",
