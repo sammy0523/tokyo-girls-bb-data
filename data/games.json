@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T09:45:00+09:00",
+  "updated_at": "2026-09-29T10:00:00+09:00",
   "count": 137,
   "games": [
     {
@@ -1604,7 +1604,7 @@
     {
       "id": "g0124",
       "school_id": "s144",
-      "date": null,
+      "date": "",
       "event": "合同練習試合（9/28公開・実施日不明）",
       "opponent": "都足立西",
       "pf": null,
@@ -1617,7 +1617,7 @@
     {
       "id": "g0125",
       "school_id": "s144",
-      "date": null,
+      "date": "",
       "event": "合同練習試合（9/28公開・実施日不明）",
       "opponent": "都紅葉川",
       "pf": null,
@@ -1630,7 +1630,7 @@
     {
       "id": "g0126",
       "school_id": "s172",
-      "date": null,
+      "date": "",
       "event": "秋季八王子市民大会予選（9/26公開・実施日不明）",
       "opponent": "都片倉",
       "pf": null,
@@ -1643,7 +1643,7 @@
     {
       "id": "g0127",
       "school_id": "s172",
-      "date": null,
+      "date": "",
       "event": "秋季八王子市民大会予選（9/26公開・実施日不明）",
       "opponent": "都松が谷",
       "pf": null,
