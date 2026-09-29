@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:51:00+09:00",
+  "updated_at": "2026-09-29T09:45:00+09:00",
   "sources": [
     {
       "id": "hsw",
@@ -203,6 +203,36 @@
       "id": "u18league2026",
       "name": "東京都U18リーグ 2026年度女子リーグ編成",
       "url": "https://tokyo.pba-japanbasketball.jp/wp-content/uploads/2026/03/7682f25ae0832251bf13c3d9c8bf0a2f.pdf",
+      "kind": "official"
+    },
+    {
+      "id": "fussa20260927",
+      "name": "都福生高校 女子バスケットボール部 U18リーグ第3戦・立川リーグ結果",
+      "url": "https://www.metro.ed.jp/fussa-h/activities/2026/09/1_8.html",
+      "kind": "official"
+    },
+    {
+      "id": "adachi20260928",
+      "name": "都足立高校 女子バスケ部 3校合同練習試合",
+      "url": "https://www.metro.ed.jp/adachi-h/news/2026/09/2-17.html",
+      "kind": "official"
+    },
+    {
+      "id": "minamitama20260926",
+      "name": "都南多摩中等 後期女子バスケ部 秋季八王子市民大会予選",
+      "url": "https://www.metro.ed.jp/minamitama-s/activities/2026/09/8_7.html",
+      "kind": "official"
+    },
+    {
+      "id": "toyo20260928",
+      "name": "東洋高校 女子バスケ部 第一支部球技大会優勝",
+      "url": "https://www.toyo.ed.jp/club/920347/",
+      "kind": "official"
+    },
+    {
+      "id": "jbaDiv2_2026",
+      "name": "JBA U18日清食品トップリーグ2026 Div.2 日程・結果",
+      "url": "https://u18league.japanbasketball.jp/game/blockleague/",
       "kind": "official"
     }
   ]
