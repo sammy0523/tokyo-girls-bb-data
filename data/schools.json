@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:51:00+09:00",
+  "updated_at": "2026-09-29T09:08:00+09:00",
   "count": 329,
   "schools": [
     {
@@ -797,7 +797,8 @@
     },
     {
       "id": "s062",
-      "name": "白百合学園",      "branch": "未確認",
+      "name": "白百合学園",
+      "branch": "未確認",
       "ownership": "私立",
       "league": "未分類",
       "status": "active",
@@ -1596,7 +1597,8 @@
       "status": "active",
       "official_site": "",
       "instagram": "",
-      "facebook": "",      "x": "",
+      "facebook": "",
+      "x": "",
       "master_source": "2026春季大会参加校・既存登録校"
     },
     {
@@ -1866,7 +1868,7 @@
       "ownership": "都立",
       "league": "未分類",
       "status": "active",
-      "official_site": "",
+      "official_site": "https://www.metro.ed.jp/adachi-h/news/2026/09/2-17.html",
       "instagram": "",
       "facebook": "",
       "x": "",
@@ -2395,7 +2397,8 @@
     {
       "id": "s185",
       "name": "恵泉女学園",
-      "branch": "未確認",      "ownership": "私立",
+      "branch": "未確認",
+      "ownership": "私立",
       "league": "未分類",
       "status": "active",
       "official_site": "",
@@ -3022,7 +3025,7 @@
       "ownership": "私立",
       "league": "未分類",
       "status": "active",
-      "official_site": "",
+      "official_site": "https://www.toyo.ed.jp/club_cat/basketballw/",
       "instagram": "",
       "facebook": "",
       "x": "",
@@ -3194,7 +3197,8 @@
       "official_site": "",
       "instagram": "",
       "facebook": "",
-      "x": "",      "master_source": "2026春季大会参加校・既存登録校"
+      "x": "",
+      "master_source": "2026春季大会参加校・既存登録校"
     },
     {
       "id": "s247",
@@ -3993,7 +3997,8 @@
       "id": "s308",
       "name": "都葛西南",
       "branch": "未確認",
-      "ownership": "都立",      "league": "未分類",
+      "ownership": "都立",
+      "league": "未分類",
       "status": "active",
       "official_site": "",
       "instagram": "",
