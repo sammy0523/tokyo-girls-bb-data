@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T10:00:00+09:00",
-  "count": 137,
+  "updated_at": "2026-10-06T20:30:00+09:00",
+  "count": 144,
   "games": [
     {
       "id": "g0001",
@@ -1782,6 +1782,97 @@
       "type": "公式戦",
       "source_id": "jbaDiv2_2026",
       "verified_on": "2026-09-29"
+    },
+    {
+      "id": "g0138",
+      "school_id": "s289",
+      "date": "2026-10-03",
+      "event": "U18リーグ 第4戦",
+      "opponent": "東洋英和女学院",
+      "pf": 46,
+      "pa": 106,
+      "result": "loss",
+      "type": "公式戦",
+      "source_id": "fussa20261005",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "g0139",
+      "school_id": "s289",
+      "date": "2026-10-04",
+      "event": "U18リーグ 第5戦",
+      "opponent": "九段中等",
+      "pf": 50,
+      "pa": 56,
+      "result": "loss",
+      "type": "公式戦",
+      "source_id": "fussa20261005",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "g0140",
+      "school_id": "s171",
+      "date": "2026-10-04",
+      "event": "秋季八王子大会 2位リーグ順位決定戦",
+      "opponent": "八王子実践",
+      "pf": 56,
+      "pa": 35,
+      "result": "win",
+      "type": "交流大会",
+      "source_id": "fujimori20261005",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "g0141",
+      "school_id": "s171",
+      "date": "2026-10-04",
+      "event": "秋季八王子大会 2位リーグ順位決定戦",
+      "opponent": "都八王子北",
+      "pf": 86,
+      "pa": 8,
+      "result": "win",
+      "type": "交流大会",
+      "source_id": "fujimori20261005",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "g0142",
+      "school_id": "s122",
+      "date": "2026-09-27",
+      "event": "U18 T1 第3戦",
+      "opponent": "都東大和南",
+      "pf": 86,
+      "pa": 57,
+      "result": "win",
+      "type": "U18リーグ",
+      "source_id": "kyoritsuFB20260927",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "g0143",
+      "school_id": "s122",
+      "date": "2026-09-27",
+      "event": "秋季八王子市民大会 予選",
+      "opponent": "都八王子東",
+      "pf": 72,
+      "pa": 10,
+      "result": "win",
+      "type": "交流大会",
+      "source_id": "kyoritsuFB20260927",
+      "verified_on": "2026-10-06"
+    },
+    {
+      "id": "g0144",
+      "school_id": "s122",
+      "date": "2026-09-27",
+      "event": "秋季八王子市民大会 予選",
+      "opponent": "都富士森",
+      "pf": 37,
+      "pa": 27,
+      "result": "win",
+      "type": "交流大会",
+      "source_id": "kyoritsuFB20260927",
+      "verified_on": "2026-10-06"
     }
   ]
 }
