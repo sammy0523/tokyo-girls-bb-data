@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T09:45:00+09:00",
+  "updated_at": "2026-10-06T20:30:00+09:00",
   "sources": [
     {
       "id": "hsw",
@@ -234,6 +234,24 @@
       "name": "JBA U18日清食品トップリーグ2026 Div.2 日程・結果",
       "url": "https://u18league.japanbasketball.jp/game/blockleague/",
       "kind": "official"
+    },
+    {
+      "id": "fussa20261005",
+      "name": "都福生高校 女子バスケットボール部 U18リーグ最終結果",
+      "url": "https://www.metro.ed.jp/fussa-h/activities/2026/10/1_8.html",
+      "kind": "official"
+    },
+    {
+      "id": "fujimori20261005",
+      "name": "都富士森高校 女子バスケットボール部 秋季八王子大会結果",
+      "url": "https://www.metro.ed.jp/fujimori-h/activities/2026/10/2_3.html",
+      "kind": "official"
+    },
+    {
+      "id": "kyoritsuFB20260927",
+      "name": "共立女子第二 バスケットボール部 Facebook 2026/9/27試合結果",
+      "url": "https://www.facebook.com/share/194JvfVgSM/",
+      "kind": "official/SNS"
     }
   ]
 }
