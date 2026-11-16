@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T20:30:00+09:00",
+  "updated_at": "2026-11-16T09:30:00+09:00",
   "sources": [
     {
       "id": "hsw",
@@ -252,6 +252,12 @@
       "name": "共立女子第二 バスケットボール部 Facebook 2026/9/27試合結果",
       "url": "https://www.facebook.com/share/194JvfVgSM/",
       "kind": "official/SNS"
+    },
+    {
+      "id": "hswShin20261115",
+      "name": "東京都高体連女子専門部 2026新人大会 11月15日18:55更新",
+      "url": "https://hsw.tokyobasketball.jp/2026/2026_shin_1115.pdf",
+      "kind": "official"
     }
   ]
 }
