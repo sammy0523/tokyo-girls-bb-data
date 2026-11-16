@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T09:45:00+09:00",
-  "count": 329,
+  "updated_at": "2026-11-16T09:30:00+09:00",
+  "count": 330,
   "schools": [
     {
       "id": "s001",
@@ -4278,6 +4278,19 @@
       "facebook": "",
       "x": "",
       "master_source": "東京都立八丈高等学校公式（2026夏季大会報告）"
+    },
+    {
+      "id": "s330",
+      "name": "愛国",
+      "branch": "未確認",
+      "ownership": "私立",
+      "league": "未分類",
+      "status": "active",
+      "official_site": "",
+      "instagram": "",
+      "facebook": "",
+      "x": "",
+      "master_source": "2026新人大会公式組合せ"
     }
   ]
 }
