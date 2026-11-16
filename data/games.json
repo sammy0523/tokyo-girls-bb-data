@@ -1942,7 +1942,7 @@
     {
       "id": "g0150",
       "school_id": "s174",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都秋留台",
       "pf": 90,
@@ -1955,7 +1955,7 @@
     {
       "id": "g0151",
       "school_id": "s163",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都八潮",
       "pf": 41,
@@ -1968,7 +1968,7 @@
     {
       "id": "g0152",
       "school_id": "s266",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "貞静学園",
       "pf": 77,
@@ -1981,7 +1981,7 @@
     {
       "id": "g0153",
       "school_id": "s171",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "鷗友学園女子",
       "pf": 76,
@@ -1994,7 +1994,7 @@
     {
       "id": "g0154",
       "school_id": "s143",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都工芸",
       "pf": 71,
@@ -2007,7 +2007,7 @@
     {
       "id": "g0155",
       "school_id": "s141",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都南多摩中等教育",
       "pf": 63,
@@ -2020,7 +2020,7 @@
     {
       "id": "g0156",
       "school_id": "s050",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都葛飾商",
       "pf": 73,
@@ -2033,7 +2033,7 @@
     {
       "id": "g0157",
       "school_id": "s131",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都赤羽北桜",
       "pf": 78,
@@ -2046,7 +2046,7 @@
     {
       "id": "g0158",
       "school_id": "s062",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "大東学園",
       "pf": 58,
@@ -2059,7 +2059,7 @@
     {
       "id": "g0159",
       "school_id": "s004",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都足立西",
       "pf": 72,
@@ -2072,7 +2072,7 @@
     {
       "id": "g0160",
       "school_id": "s059",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "香蘭女学校",
       "pf": 47,
@@ -2085,7 +2085,7 @@
     {
       "id": "g0161",
       "school_id": "s198",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京学芸大附",
       "pf": 56,
@@ -2098,7 +2098,7 @@
     {
       "id": "g0162",
       "school_id": "s289",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "正則",
       "pf": 59,
@@ -2111,7 +2111,7 @@
     {
       "id": "g0163",
       "school_id": "s144",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "女子美術大付",
       "pf": 72,
@@ -2124,7 +2124,7 @@
     {
       "id": "g0164",
       "school_id": "s013",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都千早",
       "pf": 171,
@@ -2137,7 +2137,7 @@
     {
       "id": "g0165",
       "school_id": "s061",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "中央大高",
       "pf": 74,
@@ -2150,7 +2150,7 @@
     {
       "id": "g0166",
       "school_id": "s266",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "潤徳女子",
       "pf": 107,
@@ -2163,7 +2163,7 @@
     {
       "id": "g0167",
       "school_id": "s092",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都富士森",
       "pf": 75,
@@ -2176,7 +2176,7 @@
     {
       "id": "g0168",
       "school_id": "s006",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都狛江",
       "pf": 65,
@@ -2189,7 +2189,7 @@
     {
       "id": "g0169",
       "school_id": "s050",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都東久留米総合",
       "pf": 65,
@@ -2202,7 +2202,7 @@
     {
       "id": "g0170",
       "school_id": "s131",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "白百合学園",
       "pf": 85,
@@ -2215,7 +2215,7 @@
     {
       "id": "g0171",
       "school_id": "s240",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都第五商",
       "pf": 101,
@@ -2228,7 +2228,7 @@
     {
       "id": "g0172",
       "school_id": "s059",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "國學院大久我山",
       "pf": 51,
@@ -2241,7 +2241,7 @@
     {
       "id": "g0173",
       "school_id": "s198",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都第一商",
       "pf": 95,
@@ -2254,7 +2254,7 @@
     {
       "id": "g0174",
       "school_id": "s289",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都足立",
       "pf": 80,
@@ -2345,7 +2345,7 @@
     {
       "id": "g0181",
       "school_id": "s160",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京大附中等教育",
       "pf": 80,
@@ -2358,7 +2358,7 @@
     {
       "id": "g0182",
       "school_id": "s017",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "女子学院",
       "pf": 57,
@@ -2371,7 +2371,7 @@
     {
       "id": "g0183",
       "school_id": "s019",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "淑徳巣鴨",
       "pf": 124,
@@ -2384,7 +2384,7 @@
     {
       "id": "g0184",
       "school_id": "s290",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "啓明学園",
       "pf": 51,
@@ -2397,7 +2397,7 @@
     {
       "id": "g0185",
       "school_id": "s279",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "明治大付世田谷",
       "pf": 68,
@@ -2410,7 +2410,7 @@
     {
       "id": "g0186",
       "school_id": "s182",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都町田総合",
       "pf": 87,
@@ -2423,7 +2423,7 @@
     {
       "id": "g0187",
       "school_id": "s235",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都日野台",
       "pf": 63,
@@ -2436,7 +2436,7 @@
     {
       "id": "g0188",
       "school_id": "s281",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "玉川聖学院",
       "pf": 110,
@@ -2449,7 +2449,7 @@
     {
       "id": "g0189",
       "school_id": "s188",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都桜町",
       "pf": 51,
@@ -2462,7 +2462,7 @@
     {
       "id": "g0190",
       "school_id": "s096",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都豊多摩",
       "pf": 61,
@@ -2475,7 +2475,7 @@
     {
       "id": "g0191",
       "school_id": "s078",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都竹早",
       "pf": 51,
@@ -2488,7 +2488,7 @@
     {
       "id": "g0192",
       "school_id": "s022",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "広尾学園",
       "pf": 63,
@@ -2501,7 +2501,7 @@
     {
       "id": "g0193",
       "school_id": "s214",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "豊島学院",
       "pf": 61,
@@ -2514,7 +2514,7 @@
     {
       "id": "g0194",
       "school_id": "s160",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "八王子実践",
       "pf": 74,
@@ -2527,7 +2527,7 @@
     {
       "id": "g0195",
       "school_id": "s017",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都日本橋",
       "pf": 79,
@@ -2540,7 +2540,7 @@
     {
       "id": "g0196",
       "school_id": "s019",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東亜学園",
       "pf": 96,
@@ -2553,7 +2553,7 @@
     {
       "id": "g0197",
       "school_id": "s114",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都八王子東",
       "pf": 110,
@@ -2566,7 +2566,7 @@
     {
       "id": "g0198",
       "school_id": "s199",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "中央大附",
       "pf": 130,
@@ -2579,7 +2579,7 @@
     {
       "id": "g0199",
       "school_id": "s182",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都松が谷",
       "pf": 61,
@@ -2592,7 +2592,7 @@
     {
       "id": "g0200",
       "school_id": "s041",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都武蔵",
       "pf": 83,
@@ -2605,7 +2605,7 @@
     {
       "id": "g0201",
       "school_id": "s247",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "帝京高校",
       "pf": 48,
@@ -2618,7 +2618,7 @@
     {
       "id": "g0202",
       "school_id": "s180",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "渋谷教育学園渋谷",
       "pf": 42,
@@ -2631,7 +2631,7 @@
     {
       "id": "g0203",
       "school_id": "s214",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東洋大京北",
       "pf": 61,
@@ -2709,7 +2709,7 @@
     {
       "id": "g0209",
       "school_id": "s277",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東海大菅生",
       "pf": 93,
@@ -2722,7 +2722,7 @@
     {
       "id": "g0210",
       "school_id": "s051",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都農業",
       "pf": 73,
@@ -2735,7 +2735,7 @@
     {
       "id": "g0211",
       "school_id": "s249",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "筑波大附",
       "pf": 55,
@@ -2748,7 +2748,7 @@
     {
       "id": "g0212",
       "school_id": "s239",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都府中",
       "pf": 38,
@@ -2761,7 +2761,7 @@
     {
       "id": "g0213",
       "school_id": "s212",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "関東国際",
       "pf": 86,
@@ -2774,7 +2774,7 @@
     {
       "id": "g0214",
       "school_id": "s101",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "江戸川女子",
       "pf": 65,
@@ -2787,7 +2787,7 @@
     {
       "id": "g0215",
       "school_id": "s263",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "和光",
       "pf": 92,
@@ -2800,7 +2800,7 @@
     {
       "id": "g0216",
       "school_id": "s034",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "聖ドミニコ",
       "pf": 71,
@@ -2813,7 +2813,7 @@
     {
       "id": "g0217",
       "school_id": "s014",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "桜蔭",
       "pf": 85,
@@ -2826,7 +2826,7 @@
     {
       "id": "g0218",
       "school_id": "s027",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都足立新田",
       "pf": 70,
@@ -2839,7 +2839,7 @@
     {
       "id": "g0219",
       "school_id": "s201",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都田無",
       "pf": 62,
@@ -2852,7 +2852,7 @@
     {
       "id": "g0220",
       "school_id": "s217",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "広尾学園小石川",
       "pf": 58,
@@ -2865,7 +2865,7 @@
     {
       "id": "g0221",
       "school_id": "s048",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "聖心女子学院",
       "pf": 69,
@@ -2878,7 +2878,7 @@
     {
       "id": "g0222",
       "school_id": "s115",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都戸山",
       "pf": 63,
@@ -2891,7 +2891,7 @@
     {
       "id": "g0223",
       "school_id": "s051",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "文京学院大女子",
       "pf": 100,
@@ -2904,7 +2904,7 @@
     {
       "id": "g0224",
       "school_id": "s282",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "淑徳高校",
       "pf": 72,
@@ -2917,7 +2917,7 @@
     {
       "id": "g0225",
       "school_id": "s010",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "自由学園",
       "pf": 54,
@@ -2930,7 +2930,7 @@
     {
       "id": "g0226",
       "school_id": "s101",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都杉並",
       "pf": 86,
@@ -2943,7 +2943,7 @@
     {
       "id": "g0227",
       "school_id": "s034",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "大妻",
       "pf": 64,
@@ -2956,7 +2956,7 @@
     {
       "id": "g0228",
       "school_id": "s071",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "武蔵野",
       "pf": 129,
@@ -2969,7 +2969,7 @@
     {
       "id": "g0229",
       "school_id": "s027",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "拓殖大第一",
       "pf": 64,
@@ -2982,7 +2982,7 @@
     {
       "id": "g0230",
       "school_id": "s079",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都小山台",
       "pf": 57,
@@ -2995,7 +2995,7 @@
     {
       "id": "g0231",
       "school_id": "s217",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都墨田川",
       "pf": 58,
@@ -3073,7 +3073,7 @@
     {
       "id": "g0237",
       "school_id": "s169",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都拝島",
       "pf": 106,
@@ -3086,7 +3086,7 @@
     {
       "id": "g0238",
       "school_id": "s280",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京女学館",
       "pf": 59,
@@ -3099,7 +3099,7 @@
     {
       "id": "g0239",
       "school_id": "s080",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都晴海総合",
       "pf": 20,
@@ -3112,7 +3112,7 @@
     {
       "id": "g0240",
       "school_id": "s253",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "かえつ有明",
       "pf": 62,
@@ -3125,7 +3125,7 @@
     {
       "id": "g0241",
       "school_id": "s028",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "普連土学園",
       "pf": 70,
@@ -3138,7 +3138,7 @@
     {
       "id": "g0242",
       "school_id": "s286",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "品川女子学院",
       "pf": 146,
@@ -3151,7 +3151,7 @@
     {
       "id": "g0243",
       "school_id": "s255",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都世田谷総合",
       "pf": 65,
@@ -3164,7 +3164,7 @@
     {
       "id": "g0244",
       "school_id": "s254",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都第四商",
       "pf": 77,
@@ -3177,7 +3177,7 @@
     {
       "id": "g0245",
       "school_id": "s060",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都千歳丘",
       "pf": 72,
@@ -3190,7 +3190,7 @@
     {
       "id": "g0246",
       "school_id": "s083",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "田園調布学園",
       "pf": 75,
@@ -3203,7 +3203,7 @@
     {
       "id": "g0247",
       "school_id": "s241",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "国際基督教大高",
       "pf": 76,
@@ -3216,7 +3216,7 @@
     {
       "id": "g0248",
       "school_id": "s233",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "明治大付八王子",
       "pf": 72,
@@ -3229,7 +3229,7 @@
     {
       "id": "g0249",
       "school_id": "s023",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "宝仙学園",
       "pf": 60,
@@ -3242,7 +3242,7 @@
     {
       "id": "g0250",
       "school_id": "s100",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都北園",
       "pf": 60,
@@ -3255,7 +3255,7 @@
     {
       "id": "g0251",
       "school_id": "s154",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都片倉",
       "pf": 102,
@@ -3268,7 +3268,7 @@
     {
       "id": "g0252",
       "school_id": "s280",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都武蔵丘",
       "pf": 73,
@@ -3281,7 +3281,7 @@
     {
       "id": "g0253",
       "school_id": "s080",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "二松學舎大附",
       "pf": 89,
@@ -3294,7 +3294,7 @@
     {
       "id": "g0254",
       "school_id": "s262",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "法政大高",
       "pf": 82,
@@ -3307,7 +3307,7 @@
     {
       "id": "g0255",
       "school_id": "s070",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都両国",
       "pf": 79,
@@ -3320,7 +3320,7 @@
     {
       "id": "g0256",
       "school_id": "s286",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "成蹊",
       "pf": 96,
@@ -3333,7 +3333,7 @@
     {
       "id": "g0257",
       "school_id": "s254",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "郁文館",
       "pf": 54,
@@ -3346,7 +3346,7 @@
     {
       "id": "g0258",
       "school_id": "s083",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "武蔵野大高",
       "pf": 68,
@@ -3359,7 +3359,7 @@
     {
       "id": "g0259",
       "school_id": "s229",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都葛飾野",
       "pf": 60,
@@ -3372,7 +3372,7 @@
     {
       "id": "g0260",
       "school_id": "s233",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都小岩",
       "pf": 84,
@@ -3385,7 +3385,7 @@
     {
       "id": "g0261",
       "school_id": "s100",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "桜美林",
       "pf": 66,
@@ -3476,7 +3476,7 @@
     {
       "id": "g0268",
       "school_id": "s283",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都小平",
       "pf": 77,
@@ -3489,7 +3489,7 @@
     {
       "id": "g0269",
       "school_id": "s054",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "大森学園",
       "pf": 48,
@@ -3502,7 +3502,7 @@
     {
       "id": "g0270",
       "school_id": "s102",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都篠崎",
       "pf": 66,
@@ -3515,7 +3515,7 @@
     {
       "id": "g0271",
       "school_id": "s196",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京立正",
       "pf": 72,
@@ -3528,7 +3528,7 @@
     {
       "id": "g0272",
       "school_id": "s181",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "大妻中野",
       "pf": 63,
@@ -3541,7 +3541,7 @@
     {
       "id": "g0273",
       "school_id": "s256",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都上野",
       "pf": 72,
@@ -3554,7 +3554,7 @@
     {
       "id": "g0274",
       "school_id": "s072",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "立川女子",
       "pf": 81,
@@ -3567,7 +3567,7 @@
     {
       "id": "g0275",
       "school_id": "s288",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "昭和女子大附昭和",
       "pf": 90,
@@ -3580,7 +3580,7 @@
     {
       "id": "g0276",
       "school_id": "s197",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都大崎",
       "pf": 70,
@@ -3593,7 +3593,7 @@
     {
       "id": "g0277",
       "school_id": "s267",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都練馬",
       "pf": 82,
@@ -3606,7 +3606,7 @@
     {
       "id": "g0278",
       "school_id": "s208",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京電機大高",
       "pf": 106,
@@ -3619,7 +3619,7 @@
     {
       "id": "g0279",
       "school_id": "s165",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "麴町学園女子",
       "pf": 93,
@@ -3632,7 +3632,7 @@
     {
       "id": "g0280",
       "school_id": "s082",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "中村",
       "pf": 57,
@@ -3645,7 +3645,7 @@
     {
       "id": "g0281",
       "school_id": "s089",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都小川",
       "pf": 66,
@@ -3658,7 +3658,7 @@
     {
       "id": "g0282",
       "school_id": "s099",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都東",
       "pf": 77,
@@ -3671,7 +3671,7 @@
     {
       "id": "g0283",
       "school_id": "s020",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "品川翔英",
       "pf": 117,
@@ -3684,7 +3684,7 @@
     {
       "id": "g0284",
       "school_id": "s256",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "豊南",
       "pf": 63,
@@ -3697,7 +3697,7 @@
     {
       "id": "g0285",
       "school_id": "s288",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "学習院女子",
       "pf": 61,
@@ -3710,7 +3710,7 @@
     {
       "id": "g0286",
       "school_id": "s197",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都小金井北",
       "pf": 56,
@@ -3723,7 +3723,7 @@
     {
       "id": "g0287",
       "school_id": "s267",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都西",
       "pf": 85,
@@ -3736,7 +3736,7 @@
     {
       "id": "g0288",
       "school_id": "s208",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都白鷗",
       "pf": 75,
@@ -3749,7 +3749,7 @@
     {
       "id": "g0289",
       "school_id": "s165",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "頌栄女子学院",
       "pf": 79,
@@ -3827,7 +3827,7 @@
     {
       "id": "g0295",
       "school_id": "s035",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "＊合同ｂ",
       "pf": 69,
@@ -3840,7 +3840,7 @@
     {
       "id": "g0296",
       "school_id": "s097",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "川村",
       "pf": 128,
@@ -3853,7 +3853,7 @@
     {
       "id": "g0297",
       "school_id": "s227",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都小松川",
       "pf": 55,
@@ -3866,7 +3866,7 @@
     {
       "id": "g0298",
       "school_id": "s067",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都王子総合",
       "pf": 46,
@@ -3879,7 +3879,7 @@
     {
       "id": "g0299",
       "school_id": "s250",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都成瀬",
       "pf": 71,
@@ -3892,7 +3892,7 @@
     {
       "id": "g0300",
       "school_id": "s024",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都山崎",
       "pf": 58,
@@ -3905,7 +3905,7 @@
     {
       "id": "g0301",
       "school_id": "s244",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "駒込",
       "pf": 80,
@@ -3918,7 +3918,7 @@
     {
       "id": "g0302",
       "school_id": "s108",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都南葛飾",
       "pf": 63,
@@ -3931,7 +3931,7 @@
     {
       "id": "g0303",
       "school_id": "s216",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "跡見学園",
       "pf": 111,
@@ -3944,7 +3944,7 @@
     {
       "id": "g0304",
       "school_id": "s118",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "聖徳学園",
       "pf": 96,
@@ -3957,7 +3957,7 @@
     {
       "id": "g0305",
       "school_id": "s111",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都松原",
       "pf": 77,
@@ -3970,7 +3970,7 @@
     {
       "id": "g0306",
       "school_id": "s056",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "大妻多摩",
       "pf": 85,
@@ -3983,7 +3983,7 @@
     {
       "id": "g0307",
       "school_id": "s055",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都富士",
       "pf": 87,
@@ -3996,7 +3996,7 @@
     {
       "id": "g0308",
       "school_id": "s210",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "白梅学園",
       "pf": 102,
@@ -4009,7 +4009,7 @@
     {
       "id": "g0309",
       "school_id": "s069",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都立川国際中等教育",
       "pf": 113,
@@ -4022,7 +4022,7 @@
     {
       "id": "g0310",
       "school_id": "s177",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "成立学園",
       "pf": 73,
@@ -4035,7 +4035,7 @@
     {
       "id": "g0311",
       "school_id": "s024",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都芦花",
       "pf": 67,
@@ -4048,7 +4048,7 @@
     {
       "id": "g0312",
       "school_id": "s108",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都園芸",
       "pf": 66,
@@ -4061,7 +4061,7 @@
     {
       "id": "g0313",
       "school_id": "s216",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "國學院",
       "pf": 63,
@@ -4074,7 +4074,7 @@
     {
       "id": "g0314",
       "school_id": "s173",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "＊合同ｃ",
       "pf": 82,
@@ -4087,7 +4087,7 @@
     {
       "id": "g0315",
       "school_id": "s135",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "大成高校",
       "pf": 62,
@@ -4100,7 +4100,7 @@
     {
       "id": "g0316",
       "school_id": "s118",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "錦城学園",
       "pf": 82,
@@ -4191,7 +4191,7 @@
     {
       "id": "g0323",
       "school_id": "s193",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京都市大等々力",
       "pf": 50,
@@ -4204,7 +4204,7 @@
     {
       "id": "g0324",
       "school_id": "s273",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "トキワ松学園",
       "pf": 141,
@@ -4217,7 +4217,7 @@
     {
       "id": "g0325",
       "school_id": "s106",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "千代田",
       "pf": 133,
@@ -4230,7 +4230,7 @@
     {
       "id": "g0326",
       "school_id": "s074",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "中央大杉並",
       "pf": 72,
@@ -4243,7 +4243,7 @@
     {
       "id": "g0327",
       "school_id": "s162",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "下北沢成徳",
       "pf": 66,
@@ -4256,7 +4256,7 @@
     {
       "id": "g0328",
       "school_id": "s297",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "桜丘",
       "pf": 85,
@@ -4269,7 +4269,7 @@
     {
       "id": "g0329",
       "school_id": "s176",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "駿台学園",
       "pf": 85,
@@ -4282,7 +4282,7 @@
     {
       "id": "g0330",
       "school_id": "s285",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都武蔵村山",
       "pf": 96,
@@ -4295,7 +4295,7 @@
     {
       "id": "g0331",
       "school_id": "s276",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "開智日本橋学園",
       "pf": 57,
@@ -4308,7 +4308,7 @@
     {
       "id": "g0332",
       "school_id": "s243",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "山脇学園",
       "pf": 66,
@@ -4321,7 +4321,7 @@
     {
       "id": "g0333",
       "school_id": "s075",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都田園調布",
       "pf": 88,
@@ -4334,7 +4334,7 @@
     {
       "id": "g0334",
       "school_id": "s094",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都小石川中等教育",
       "pf": 51,
@@ -4347,7 +4347,7 @@
     {
       "id": "g0335",
       "school_id": "s275",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "瀧野川女子学園",
       "pf": 101,
@@ -4360,7 +4360,7 @@
     {
       "id": "g0336",
       "school_id": "s112",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都小平西",
       "pf": 66,
@@ -4373,7 +4373,7 @@
     {
       "id": "g0337",
       "school_id": "s273",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "明星高校",
       "pf": 53,
@@ -4386,7 +4386,7 @@
     {
       "id": "g0338",
       "school_id": "s106",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "明治学院東村山",
       "pf": 78,
@@ -4399,7 +4399,7 @@
     {
       "id": "g0339",
       "school_id": "s200",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "慶應義塾女子",
       "pf": 70,
@@ -4412,7 +4412,7 @@
     {
       "id": "g0340",
       "school_id": "s178",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "文教大付",
       "pf": 147,
@@ -4425,7 +4425,7 @@
     {
       "id": "g0341",
       "school_id": "s297",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都淵江",
       "pf": 66,
@@ -4438,7 +4438,7 @@
     {
       "id": "g0342",
       "school_id": "s276",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都江北",
       "pf": 51,
@@ -4451,7 +4451,7 @@
     {
       "id": "g0343",
       "school_id": "s211",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都深川",
       "pf": 124,
@@ -4464,7 +4464,7 @@
     {
       "id": "g0344",
       "school_id": "s011",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都美原",
       "pf": 78,
@@ -4477,7 +4477,7 @@
     {
       "id": "g0345",
       "school_id": "s094",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "光塩女子学院",
       "pf": 107,
@@ -4490,7 +4490,7 @@
     {
       "id": "g0346",
       "school_id": "s275",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "明治大付明治",
       "pf": 60,
@@ -4568,7 +4568,7 @@
     {
       "id": "g0352",
       "school_id": "s219",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "豊島岡女子学園",
       "pf": 105,
@@ -4581,7 +4581,7 @@
     {
       "id": "g0353",
       "school_id": "s252",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都大泉",
       "pf": 78,
@@ -4594,7 +4594,7 @@
     {
       "id": "g0354",
       "school_id": "s184",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "お茶の水女子大附",
       "pf": 87,
@@ -4607,7 +4607,7 @@
     {
       "id": "g0355",
       "school_id": "s242",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都忍岡",
       "pf": 53,
@@ -4620,7 +4620,7 @@
     {
       "id": "g0356",
       "school_id": "s139",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "青山学院",
       "pf": 71,
@@ -4633,7 +4633,7 @@
     {
       "id": "g0357",
       "school_id": "s167",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "三田国際科学学園",
       "pf": 51,
@@ -4646,7 +4646,7 @@
     {
       "id": "g0358",
       "school_id": "s278",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "明法",
       "pf": 63,
@@ -4659,7 +4659,7 @@
     {
       "id": "g0359",
       "school_id": "s153",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都竹台",
       "pf": 53,
@@ -4672,7 +4672,7 @@
     {
       "id": "g0360",
       "school_id": "s248",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "芝浦工業大附",
       "pf": 74,
@@ -4685,7 +4685,7 @@
     {
       "id": "g0361",
       "school_id": "s109",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都青山",
       "pf": 56,
@@ -4698,7 +4698,7 @@
     {
       "id": "g0362",
       "school_id": "s261",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都武蔵野北",
       "pf": 103,
@@ -4711,7 +4711,7 @@
     {
       "id": "g0363",
       "school_id": "s185",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "＊合同ｄ",
       "pf": 49,
@@ -4724,7 +4724,7 @@
     {
       "id": "g0364",
       "school_id": "s003",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "区九段中等教育",
       "pf": 73,
@@ -4737,7 +4737,7 @@
     {
       "id": "g0365",
       "school_id": "s120",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都立川",
       "pf": 73,
@@ -4750,7 +4750,7 @@
     {
       "id": "g0366",
       "school_id": "s040",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都町田",
       "pf": 62,
@@ -4763,7 +4763,7 @@
     {
       "id": "g0367",
       "school_id": "s026",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都飛鳥",
       "pf": 108,
@@ -4776,7 +4776,7 @@
     {
       "id": "g0368",
       "school_id": "s149",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京朝鮮中高級学校",
       "pf": 122,
@@ -4789,7 +4789,7 @@
     {
       "id": "g0369",
       "school_id": "s139",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都南平",
       "pf": 65,
@@ -4802,7 +4802,7 @@
     {
       "id": "g0370",
       "school_id": "s153",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都神代",
       "pf": 74,
@@ -4815,7 +4815,7 @@
     {
       "id": "g0371",
       "school_id": "s032",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "駒場学園",
       "pf": 82,
@@ -4828,7 +4828,7 @@
     {
       "id": "g0372",
       "school_id": "s222",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "サレジアン国際学園",
       "pf": 99,
@@ -4841,7 +4841,7 @@
     {
       "id": "g0373",
       "school_id": "s007",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "三輪田学園",
       "pf": 56,
@@ -4854,7 +4854,7 @@
     {
       "id": "g0374",
       "school_id": "s261",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "恵泉女学園",
       "pf": 100,
@@ -4932,7 +4932,7 @@
     {
       "id": "g0380",
       "school_id": "s298",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京文華",
       "pf": 12,
@@ -4945,7 +4945,7 @@
     {
       "id": "g0381",
       "school_id": "s206",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "愛国",
       "pf": 25,
@@ -4958,7 +4958,7 @@
     {
       "id": "g0382",
       "school_id": "s330",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "＊合同ａ",
       "pf": 35,
@@ -4971,7 +4971,7 @@
     {
       "id": "g0383",
       "school_id": "s042",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都東村山西",
       "pf": 39,
@@ -4984,7 +4984,7 @@
     {
       "id": "g0384",
       "school_id": "s042",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "東京家政学院",
       "pf": 58,
@@ -4997,7 +4997,7 @@
     {
       "id": "g0385",
       "school_id": "s158",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "都園芸",
       "pf": 39,
@@ -5010,7 +5010,7 @@
     {
       "id": "g0386",
       "school_id": "s284",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "＊合同ｃ",
       "pf": 44,
@@ -5023,7 +5023,7 @@
     {
       "id": "g0387",
       "school_id": "s202",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "晃華学園",
       "pf": 93,
@@ -5036,7 +5036,7 @@
     {
       "id": "g0388",
       "school_id": "s157",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "城西大附城西",
       "pf": 50,
@@ -5049,7 +5049,7 @@
     {
       "id": "g0389",
       "school_id": "s215",
-      "date": null,
+      "date": "",
       "event": "東京都新人大会",
       "opponent": "サレジアン国際学園",
       "pf": 36,
