@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T20:30:00+09:00",
-  "count": 144,
+  "updated_at": "2026-11-16T09:30:00+09:00",
+  "count": 149,
   "games": [
     {
       "id": "g0001",
@@ -1873,6 +1873,71 @@
       "type": "交流大会",
       "source_id": "kyoritsuFB20260927",
       "verified_on": "2026-10-06"
+    },
+    {
+      "id": "g0145",
+      "school_id": "s291",
+      "date": "2026-11-15",
+      "event": "東京都新人大会",
+      "opponent": "豊島学院",
+      "pf": 126,
+      "pa": 37,
+      "result": "win",
+      "type": "公式戦",
+      "source_id": "hswShin20261115",
+      "verified_on": "2026-11-16"
+    },
+    {
+      "id": "g0146",
+      "school_id": "s122",
+      "date": "2026-11-15",
+      "event": "東京都新人大会",
+      "opponent": "頌栄女子学院",
+      "pf": 122,
+      "pa": 27,
+      "result": "win",
+      "type": "公式戦",
+      "source_id": "hswShin20261115",
+      "verified_on": "2026-11-16"
+    },
+    {
+      "id": "g0147",
+      "school_id": "s026",
+      "date": "2026-11-15",
+      "event": "東京都新人大会",
+      "opponent": "東京朝鮮中高級学校",
+      "pf": 136,
+      "pa": 25,
+      "result": "win",
+      "type": "公式戦",
+      "source_id": "hswShin20261115",
+      "verified_on": "2026-11-16"
+    },
+    {
+      "id": "g0148",
+      "school_id": "s226",
+      "date": "2026-11-15",
+      "event": "東京都新人大会",
+      "opponent": "聖心女子学院",
+      "pf": 133,
+      "pa": 28,
+      "result": "win",
+      "type": "公式戦",
+      "source_id": "hswShin20261115",
+      "verified_on": "2026-11-16"
+    },
+    {
+      "id": "g0149",
+      "school_id": "s152",
+      "date": "2026-11-15",
+      "event": "東京都新人大会",
+      "opponent": "城西大附城西",
+      "pf": 138,
+      "pa": 32,
+      "result": "win",
+      "type": "公式戦",
+      "source_id": "hswShin20261115",
+      "verified_on": "2026-11-16"
     }
   ]
 }
